@@ -1,0 +1,22 @@
+C:\Users\oomishope\source\repos\MidtermTest\Midterm\bin\Debug\netcoreapp3.1\Midterm.exe
+C:\Users\oomishope\source\repos\MidtermTest\Midterm\bin\Debug\netcoreapp3.1\Midterm.deps.json
+C:\Users\oomishope\source\repos\MidtermTest\Midterm\bin\Debug\netcoreapp3.1\Midterm.runtimeconfig.json
+C:\Users\oomishope\source\repos\MidtermTest\Midterm\bin\Debug\netcoreapp3.1\Midterm.runtimeconfig.dev.json
+C:\Users\oomishope\source\repos\MidtermTest\Midterm\bin\Debug\netcoreapp3.1\Midterm.dll
+C:\Users\oomishope\source\repos\MidtermTest\Midterm\bin\Debug\netcoreapp3.1\Midterm.pdb
+C:\Users\oomishope\source\repos\MidtermTest\Midterm\obj\Debug\netcoreapp3.1\Midterm.csprojAssemblyReference.cache
+C:\Users\oomishope\source\repos\MidtermTest\Midterm\obj\Debug\netcoreapp3.1\Midterm.AssemblyInfoInputs.cache
+C:\Users\oomishope\source\repos\MidtermTest\Midterm\obj\Debug\netcoreapp3.1\Midterm.AssemblyInfo.cs
+C:\Users\oomishope\source\repos\MidtermTest\Midterm\obj\Debug\netcoreapp3.1\Midterm.dll
+C:\Users\oomishope\source\repos\MidtermTest\Midterm\obj\Debug\netcoreapp3.1\Midterm.pdb
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\MidtermTest\Midterm\bin\Debug\netcoreapp3.1\Midterm.exe
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\MidtermTest\Midterm\bin\Debug\netcoreapp3.1\Midterm.deps.json
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\MidtermTest\Midterm\bin\Debug\netcoreapp3.1\Midterm.runtimeconfig.json
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\MidtermTest\Midterm\bin\Debug\netcoreapp3.1\Midterm.runtimeconfig.dev.json
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\MidtermTest\Midterm\bin\Debug\netcoreapp3.1\Midterm.dll
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\MidtermTest\Midterm\bin\Debug\netcoreapp3.1\Midterm.pdb
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\MidtermTest\Midterm\obj\Debug\netcoreapp3.1\Midterm.csprojAssemblyReference.cache
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\MidtermTest\Midterm\obj\Debug\netcoreapp3.1\Midterm.AssemblyInfoInputs.cache
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\MidtermTest\Midterm\obj\Debug\netcoreapp3.1\Midterm.AssemblyInfo.cs
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\MidtermTest\Midterm\obj\Debug\netcoreapp3.1\Midterm.dll
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\MidtermTest\Midterm\obj\Debug\netcoreapp3.1\Midterm.pdb
